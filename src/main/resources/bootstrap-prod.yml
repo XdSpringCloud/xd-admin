@@ -1,0 +1,14 @@
+spring:
+  cloud:
+    config:
+      uri: http://192.168.28.129:8888
+      name: xd-admin
+      label: master
+      profile: prod
+
+
+
+
+
+
+
